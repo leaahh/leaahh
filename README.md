@@ -2,6 +2,7 @@
 
 :birthday: 22 years old  
 👩🏽‍💻 data engineering student  
+:books: Learning in progress !
 
 <br/>
 <br/>

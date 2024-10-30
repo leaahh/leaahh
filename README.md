@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Léah 👋</h1>
 
-:birthday: 22 years old  
+:birthday: 23 years old  
 👩🏽‍💻 data engineering student  
 :books: Learning in progress !
 

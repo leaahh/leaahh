@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Léah 👋</h1>
 
 🎂 23 years old  
-👩🏽‍💻 engineer
+👩🏽‍💻 engineer  
 📚Learning in progress !
 
 <br/>
